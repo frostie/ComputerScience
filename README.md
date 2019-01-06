@@ -3,7 +3,7 @@
 # About this repository
 The intent of this repository is to store some algorithms I used in labs and assignments from my Computer Science degree. The repository currently covers:
 
-- Data Structures and ALgorithm Analysis
+- Data Structures and Algorithm Analysis
 
 ## Lab: Find the largest element in an unsorted array of integers:
     public class Main
