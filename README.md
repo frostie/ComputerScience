@@ -1,3 +1,5 @@
+![alt_text](https://github.com/pippom/ComputerScience/blob/master/ComputerScience.jpg)
+
 # ComputerScience
 A repository for some algorithms from my Computer Science degree
 
