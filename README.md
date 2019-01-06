@@ -13,15 +13,15 @@ The intent of this repository is to store some algorithms I used in labs and ass
     {
         public static void main(String[] args)
         {
-            int[] arr = new int[]{45, 56, 77, 24, 12, 98}; // O(1)
-            int max = arr[0]; // O(1)
-            for(int i = 1; i < arr.length; i++) // O(n)
+            int[] arr = new int[]{45, 56, 77, 24, 12, 98};
+            int max = arr[0];
+            for(int i = 1; i < arr.length; i++)
             {
-                if(arr[i] > max) // O(n)
+                if(arr[i] > max)
                 {
-                    max = arr[i]; // O(1)
+                    max = arr[i];
                 }
             }
-            System.out.println("Largest number: " + max); // O(1)
+            System.out.println("Largest number: " + max);
         }
     }
