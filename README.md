@@ -31,6 +31,6 @@ A faster, cleaner way using new stream API:
         {
              int[] array = {3, 4, 7, 1};
              int max = java.util.Arrays.stream(array).max().getAsInt();
-             System.out.println(max);
+             System.out.println("Largest number: " + max);
         }
     }
