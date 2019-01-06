@@ -3,10 +3,10 @@
 # About this repository
 The intent of this repository is to store some algorithms I used in labs and assignments from my Computer Science degree
 
-## Currently Covers:
-- Data Structures and Algorithm Analysis
+The repository currently covers:
+- Data Structures and ALgorithm Analysis
 
-### Lab: Find the largest element in an unsorted array of integers:
+## Lab: Find the largest element in an unsorted array of integers:
     public class Main
     {
         public static void main(String[] args)
