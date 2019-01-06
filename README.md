@@ -1,12 +1,12 @@
 ![alt_text](https://github.com/pippom/ComputerScience/blob/master/ComputerScience.jpg)
 
-# ComputerScience
-A repository for some algorithms from my Computer Science degree
+# About this repository
+The intent of this repository is to store some algorithms I used in labs and assignments from my Computer Science degree
 
 ## Currently Covers:
 - Data Structures and Algorithm Analysis
 
-### Algorithm: find the largest element in an unsorted array of integers:
+### Lab: Find the largest element in an unsorted array of integers:
     package com.PhilMarcoccia;
 
     public class Main
