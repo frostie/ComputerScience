@@ -22,3 +22,15 @@ The intent of this repository is to store some algorithms I used in labs and ass
             System.out.println("Largest number: " + max);
         }
     }
+
+A faster, cleaner way using new stream API:
+    
+    public class Main
+    {
+        public static void main(String[] args)
+        {
+             int[] array = {3, 4, 7, 1};
+             int max = java.util.Arrays.stream(array).max().getAsInt();
+             System.out.println(max);
+        }
+    }
