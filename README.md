@@ -7,8 +7,6 @@ The intent of this repository is to store some algorithms I used in labs and ass
 - Data Structures and Algorithm Analysis
 
 ### Lab: Find the largest element in an unsorted array of integers:
-    package com.PhilMarcoccia;
-
     public class Main
     {
         public static void main(String[] args)
