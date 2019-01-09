@@ -1,6 +1,6 @@
 package com.PhilMarcoccia;
 
-public class Main
+public class FindLargest
 {
     public static void main(String[] args)
     {
