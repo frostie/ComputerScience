@@ -4,6 +4,9 @@
 The intent of this repository is to store some algorithms I used in labs and assignments from my Computer Science degree. The repository currently covers:
 
 - Data Structures and Algorithm Analysis
+    - Time complexity of algorithms
+    - Big-O notation
+    - Recursive functions
 
 ## Lab: Find the largest element in an unsorted array of integers:
     public class Main
