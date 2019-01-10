@@ -1,6 +1,6 @@
 package com.PhilMarcoccia;
 
-public class FindLargest
+public class FindLargestInUnsortedArray
 {
     public static void main(String[] args)
     {
