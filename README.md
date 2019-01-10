@@ -9,7 +9,7 @@ The intent of this repository is to store some algorithms I used in labs and ass
     - Recursive functions
 
 ## Lab: Find the largest element in an unsorted array of integers:
-    public class Main
+    public class FindLargestInUnsortedArray
     {
         public static void main(String[] args)
         {
