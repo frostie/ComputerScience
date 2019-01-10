@@ -28,7 +28,7 @@ The intent of this repository is to store some algorithms I used in labs and ass
 
 A faster, cleaner way using new stream API:
     
-    public class Main
+    public class FindLargestInUnsortedArray
     {
         public static void main(String[] args)
         {
