@@ -10,7 +10,7 @@ The intent of this repository is to store some algorithms I used in labs and ass
 
 ## Recursive Methods
 
-        // This method returns the sum of 1 to num
+    // This method returns the sum of 1 to num
     public int sum (int num)
     {
         int result;
