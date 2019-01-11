@@ -5,6 +5,7 @@ The intent of this repository is to store some algorithms I used in labs and ass
 
 - Data Structures and Algorithm Analysis
     - Time complexity of algorithms
+    - Growth functions
     - Big-O notation
     - Recursive functions
 
