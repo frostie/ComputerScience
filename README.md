@@ -20,6 +20,8 @@ The intent of this repository is to store some algorithms I used in labs and ass
             result = num + sum (num-1); // O(n)
         return result;                  // O(1)
     }
+    
+    // T(n) = O(n)
 
 ## Lab: Find the largest element in an unsorted array of integers:
     public class FindLargestInUnsortedArray
