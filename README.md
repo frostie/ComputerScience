@@ -14,12 +14,12 @@ The intent of this repository is to store some algorithms I used in labs and ass
     // This method returns the sum of 1 to num
     public int sum (int num)
     {
-        int result;                     // O(1)
-        if (num == 1)                   // O(1)
-            result = 1;                 // O(1)
-        else                            // O(1)
-            result = num + sum (num-1); // O(n)
-        return result;                  // O(1)
+        int result;
+        if (num == 1)
+            result = 1;
+        else
+            result = num + sum (num-1);
+        return result;
     }
     
     // T(n) = O(n)
