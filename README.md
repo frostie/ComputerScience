@@ -1,5 +1,3 @@
-![alt_text](https://github.com/pippom/ComputerScience/blob/master/ComputerScience.jpg)
-
 # About this repository
 The intent of this repository is to store some algorithms I used in labs and assignments from my Computer Science degree. The repository currently covers:
 
@@ -8,6 +6,8 @@ The intent of this repository is to store some algorithms I used in labs and ass
     - Growth functions
     - Big-O notation
     - Recursive functions
+
+![alt_text](https://github.com/pippom/ComputerScience/blob/master/ComputerScience.jpg)
 
 ## Recursive Methods
 
